@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ParkingApp</string>
+    <string name="imgFood">Just some good lookin food</string>
+    <string name="txtTitle">Restaurant Tip Calculator</string>
+    <string name="txtHint">Enter Bill Total</string>
+    <string name="btnCalcTip">Calculate Tip</string>
+    <string name="prompt">Select Tip Percentage</string>
+    <string-array name="txtGroup">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+</resources>
